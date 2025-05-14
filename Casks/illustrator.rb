@@ -2,7 +2,7 @@ cask 'illustrator' do
   version '29.3'
   sha256 'c44c227614775a78da6cf4d4cdf2092c8a387d5203f71ae82a78e73a2b435834'
 
-  url 'https://download2294.mediafire.com/pc5615r8uikgHUHyf5IDfRtggypGAXQOPJGmZMTEF3I3RaKcbfpV49K9awSL8TZrT83UTPWyEDq1m7uDjxmXWmB-lJo1ovVxBVsWxoPyEj2lqs6u8ig_Y6UdvNN_Bv3dZawGqKhADNdOdQ-0TrLJTA4tur3Sg8tCL-qx0YQNQEtdHw/e30xskgilfxtl2a/Illustrator+29.3+%5BMonter+Group%5D.dmg'
+  url 'https://download2294.mediafire.com/pup89aryl8xgirU5nbr8RkmfDJfbNl2y6pEvnIPRA0-RBRg4ycK4jZ1aWPf5XyJZaZyzFKxtHU5uWRVDzP6RCDuZ5BLslEFliHI0FWAtv7e5aLiUHqUouBghMKdyUUN2U_MUYpL7Fa-75t0_vokMGcn0bCFXvGnIhhPOAtZnVU103A/e30xskgilfxtl2a/Illustrator+29.3+%5BMonter+Group%5D.dmg'
   name 'Adobe Illustrator'
   homepage 'https://www.adobe.com'
 

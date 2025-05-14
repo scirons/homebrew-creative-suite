@@ -2,7 +2,7 @@ cask 'resolve' do
   version '19.1.3'
   sha256 'fc1ff63a9c0f03b2e9246df1346db3d2f26a22c3c98b75e96e3d6964a6bbe138'
 
-  url 'https://download2351.mediafire.com/1x5vt4ctjjegFT2YnCndzzRJM49g3wdGl8FsP26UgSZbRKhSfchgIBpEWgChbGEs1OpK6c_XVE1W63y09_qB58PkUevXMvpJ_HvqA3YSatZ1_Atz-d3cZmVundmV9-oidpLcSgnRHbiuKOm2LLtVWEDTUyzQd0l9HJvGfVlEp8JmEA/i67odtoqlfa6jxv/DRS+19.1.3+%5BMonter+Group%5D.dmg'
+  url 'https://download2351.mediafire.com/m1s3jjfjzlfgk6vCswnHUx16TUZGzZCY_Gz2GLLXxDqh62ePL9a4lrdrGX3ZyrjDSy0MydBdg5zRIhdbDYj56tv1vs75rvOhz2qbBnXrYYc8VIYxAoWrazBrGI4YwqSoXOh2-iOhmqE07ld_d67dlS6DzZxIfxuDxWYdIJ_K_izCvg/i67odtoqlfa6jxv/DRS+19.1.3+%5BMonter+Group%5D.dmg'
   name 'Davinci Resolve'
   homepage 'https://www.blackmagicdesign.com'
 
